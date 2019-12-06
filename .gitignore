@@ -1,0 +1,14 @@
+.stack-work/
+.ghci
+*.hi
+*.o
+dist-newstyle/
+dist/
+.ghc.environment.*
+stack.yaml.lock
+*~
+*.swp
+
+cleanup-test-folder/
+sqlite-seq/
+sqlite-par/
